@@ -1,0 +1,12 @@
+num1=4
+num2=2
+suma=num1+num2
+resta=num1-num2
+multiplicaciones=num1*num2
+division =num1/num2
+cuadrado=num1 * num2
+print(f"el resultado de la suma es={suma}")
+print(f"el resultado de la resta es={resta}")
+print(f"el resultado de la multiplicacion es={multiplicaciones}")
+print(f"el resultado de la division  es={division }")
+print(f"el cuadrado del segundo valor es={cuadrado }")
