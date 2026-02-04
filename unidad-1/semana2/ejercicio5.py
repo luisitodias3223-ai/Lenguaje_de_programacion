@@ -16,11 +16,11 @@ print(f"naciste en el año {nacimiento}")
 """
 SOLICITAR AL USUARIO SU EDAD Y DETERMINAR Si es mayor 
 de edad o menor, si tiene exactamente la mayoria de 
-edad, decirle: ya es hora de sacar DPI
+edad, decirle: ya es hora de sacar  su DPI
 """
 edad = int(input("¿Cuantos años tienes?"))
-if(edad<= 17):
+if(edad<= 18):
     print("sigues siendo menor de edad")
 else:
-    print("bueno , YA ES HORA DE SACAR DPI :( )")
+    print("bueno, YA ES HORA DE SACAR  SU DPI :( suerte )")
 
